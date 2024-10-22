@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LB767
 - 👀 I’m interested in programs that don't suck.
-- 🌱 I’m currently learning OpenGL and graphics programming.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me - I dunno just send me a tweet or something @LB767
 
